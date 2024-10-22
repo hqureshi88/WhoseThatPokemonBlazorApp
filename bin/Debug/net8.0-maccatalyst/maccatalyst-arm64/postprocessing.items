@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="BlazorPokemonApp.app/Contents/MacOS/BlazorPokemonApp">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>BlazorPokemonApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>BlazorPokemonApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>BlazorPokemonApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,183 @@
+/* /Components/Layout/MainLayout.razor.rz.scp.css */
+.page[b-s68ytas9um] {
+    height: 100vh;
+    background-image: url("PokemonBackground.png");
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    overflow: auto;
+}
+/* /Components/Loader.razor.rz.scp.css */
+.lds-roller[b-4ojpufz2op] {
+    display: inline-block;
+    position: relative;
+    width: 80px;
+    height: 80px;
+}
+
+    .lds-roller div[b-4ojpufz2op] {
+        animation: lds-roller-b-4ojpufz2op 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+        transform-origin: 40px 40px;
+    }
+
+        .lds-roller div[b-4ojpufz2op]:after {
+            content: " ";
+            display: block;
+            position: absolute;
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: red;
+            margin: -4px 0 0 -4px;
+        }
+
+        .lds-roller div:nth-child(1)[b-4ojpufz2op] {
+            animation-delay: -0.036s;
+        }
+
+            .lds-roller div:nth-child(1)[b-4ojpufz2op]:after {
+                top: 63px;
+                left: 63px;
+            }
+
+        .lds-roller div:nth-child(2)[b-4ojpufz2op] {
+            animation-delay: -0.072s;
+        }
+
+            .lds-roller div:nth-child(2)[b-4ojpufz2op]:after {
+                top: 68px;
+                left: 56px;
+            }
+
+        .lds-roller div:nth-child(3)[b-4ojpufz2op] {
+            animation-delay: -0.108s;
+        }
+
+            .lds-roller div:nth-child(3)[b-4ojpufz2op]:after {
+                top: 71px;
+                left: 48px;
+            }
+
+        .lds-roller div:nth-child(4)[b-4ojpufz2op] {
+            animation-delay: -0.144s;
+        }
+
+            .lds-roller div:nth-child(4)[b-4ojpufz2op]:after {
+                top: 72px;
+                left: 40px;
+            }
+
+        .lds-roller div:nth-child(5)[b-4ojpufz2op] {
+            animation-delay: -0.18s;
+        }
+
+            .lds-roller div:nth-child(5)[b-4ojpufz2op]:after {
+                top: 71px;
+                left: 32px;
+            }
+
+        .lds-roller div:nth-child(6)[b-4ojpufz2op] {
+            animation-delay: -0.216s;
+        }
+
+            .lds-roller div:nth-child(6)[b-4ojpufz2op]:after {
+                top: 68px;
+                left: 24px;
+            }
+
+        .lds-roller div:nth-child(7)[b-4ojpufz2op] {
+            animation-delay: -0.252s;
+        }
+
+            .lds-roller div:nth-child(7)[b-4ojpufz2op]:after {
+                top: 63px;
+                left: 17px;
+            }
+
+        .lds-roller div:nth-child(8)[b-4ojpufz2op] {
+            animation-delay: -0.288s;
+        }
+
+            .lds-roller div:nth-child(8)[b-4ojpufz2op]:after {
+                top: 56px;
+                left: 12px;
+            }
+
+@keyframes lds-roller-b-4ojpufz2op {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+/* /Components/PokemonSelector.razor.rz.scp.css */
+.container[b-kjgvf2jgj3] {
+    font-family: Verdana;
+    position: relative;
+    color: white;
+}
+/* /Components/WhosThatPokemon.razor.rz.scp.css */
+.container[b-zto8xnu2ux] {
+    position: absolute;
+    border-radius: 3px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    width: 30%;
+    max-width: 400px;
+    margin-left: calc(100vh - 70vh);
+    margin-right: auto;
+    margin-top: calc(100vh - 80vh);
+}
+
+.container-selector[b-zto8xnu2ux] {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+[b-zto8xnu2ux] button.confirm-button {
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    margin: 5px;
+}
+
+.title[b-zto8xnu2ux] {
+    font-size: large;
+}
+/* /Components/WhosThatPokemonData.razor.rz.scp.css */
+.container[b-qdw98hc3li] {
+    font-family: Verdana;
+    color: black;
+}
+
+.pokemon-image[b-qdw98hc3li] {
+    width: 80%;
+    filter: drop-shadow(2px 4px 6px black);
+    margin: auto;
+    display: block;
+}
+
+.pokemon-image-hidden[b-qdw98hc3li] {
+    filter: brightness(0) drop-shadow(2px 4px 6px black)
+}
+
+.pokemon-name[b-qdw98hc3li] {
+    font-size: large;
+}
+/* /Components/WhosThatPokemonResult.razor.rz.scp.css */
+.container[b-5942ktf16r] {
+    font-family: Verdana;
+    font-size: large;
+}
+
+.game-result-correct[b-5942ktf16r] {
+    color: green;
+}
+
+.game-result-wrong[b-5942ktf16r] {
+    color: red;
+}

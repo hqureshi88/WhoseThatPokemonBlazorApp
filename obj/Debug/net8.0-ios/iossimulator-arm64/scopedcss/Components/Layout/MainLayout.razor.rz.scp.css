@@ -1,0 +1,10 @@
+.page[b-s68ytas9um] {
+    height: 100vh;
+    background-image: url("PokemonBackground.png");
+    /* background-position: top; */
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    position: relative;
+    overflow: auto;
+}

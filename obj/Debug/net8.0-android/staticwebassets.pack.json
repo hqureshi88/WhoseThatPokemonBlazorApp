@@ -1,0 +1,57 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/obj/Debug/net8.0-android/scopedcss/bundle/BlazorPokemonApp.styles.css",
+      "PackagePath": "staticwebassets/BlazorPokemonApp.styles.css"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/PokemonBackground.png",
+      "PackagePath": "staticwebassets/PokemonBackground.png"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/Whos20that20Pokemon.mp3",
+      "PackagePath": "staticwebassets/Whos20that20Pokemon.mp3"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/background.png",
+      "PackagePath": "staticwebassets/background.png"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.BlazorPokemonApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.build.BlazorPokemonApp.props",
+      "PackagePath": "build\\BlazorPokemonApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.buildMultiTargeting.BlazorPokemonApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorPokemonApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0-android/staticwebassets/msbuild.buildTransitive.BlazorPokemonApp.props",
+      "PackagePath": "buildTransitive\\BlazorPokemonApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

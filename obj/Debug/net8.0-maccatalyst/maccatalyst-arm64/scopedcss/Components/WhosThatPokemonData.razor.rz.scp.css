@@ -1,0 +1,19 @@
+.container[b-qdw98hc3li] {
+    font-family: Verdana;
+    color: black;
+}
+
+.pokemon-image[b-qdw98hc3li] {
+    width: 80%;
+    filter: drop-shadow(2px 4px 6px black);
+    margin: auto;
+    display: block;
+}
+
+.pokemon-image-hidden[b-qdw98hc3li] {
+    filter: brightness(0) drop-shadow(2px 4px 6px black)
+}
+
+.pokemon-name[b-qdw98hc3li] {
+    font-size: large;
+}

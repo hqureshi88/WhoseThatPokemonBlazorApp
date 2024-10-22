@@ -1,0 +1,12 @@
+.container[b-5942ktf16r] {
+    font-family: Verdana;
+    font-size: large;
+}
+
+.game-result-correct[b-5942ktf16r] {
+    color: green;
+}
+
+.game-result-wrong[b-5942ktf16r] {
+    color: red;
+}

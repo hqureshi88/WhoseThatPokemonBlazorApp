@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/hamidqureshi/Projects/BlazorServerPokemonApp/BlazorPokemonApp/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/BlazorPokemonApp.app

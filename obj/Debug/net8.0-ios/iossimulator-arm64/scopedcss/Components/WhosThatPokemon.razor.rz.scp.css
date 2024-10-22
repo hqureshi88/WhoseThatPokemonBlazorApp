@@ -1,0 +1,31 @@
+.container[b-zto8xnu2ux] {
+    position: absolute;
+    border-radius: 3px;
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 30%;
+    height: auto;
+    /* max-width: 400px; */
+    /* margin-left: calc(100vh - 70vh);
+    margin-right: auto;
+    margin-top: calc(100vh - 80vh); */
+}
+
+.container-selector[b-zto8xnu2ux] {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+[b-zto8xnu2ux] button.confirm-button {
+    margin-top: 10px;
+    background-color: red;
+    color: white;
+    margin: 5px;
+}
+
+.title[b-zto8xnu2ux] {
+    font-size: large;
+}
